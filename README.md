@@ -2,6 +2,7 @@
 
 Scala programs
 
+Detailed description of each task is available inside the corresponding folder
 ________________________________________________________________________________________
 
 Main 1: Investments
